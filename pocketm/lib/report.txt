@@ -1,0 +1,6 @@
+
+food -- 200BALANCE = 1800	 EXPENSE REPORT
+food -- 200
+BALANCE = 1800
+food -- 500
+BALANCE = 300

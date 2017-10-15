@@ -1,0 +1,3 @@
+module Pocketm
+  VERSION = "0.1.0"
+end
